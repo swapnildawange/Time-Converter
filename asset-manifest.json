@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/time-converter/static/css/main.ea01e57a.chunk.css",
-    "main.js": "/time-converter/static/js/main.41410378.chunk.js",
-    "main.js.map": "/time-converter/static/js/main.41410378.chunk.js.map",
-    "runtime-main.js": "/time-converter/static/js/runtime-main.8236127d.js",
-    "runtime-main.js.map": "/time-converter/static/js/runtime-main.8236127d.js.map",
-    "static/js/2.1b057725.chunk.js": "/time-converter/static/js/2.1b057725.chunk.js",
-    "static/js/2.1b057725.chunk.js.map": "/time-converter/static/js/2.1b057725.chunk.js.map",
-    "static/js/3.3ec79b28.chunk.js": "/time-converter/static/js/3.3ec79b28.chunk.js",
-    "static/js/3.3ec79b28.chunk.js.map": "/time-converter/static/js/3.3ec79b28.chunk.js.map",
-    "index.html": "/time-converter/index.html",
-    "static/css/main.ea01e57a.chunk.css.map": "/time-converter/static/css/main.ea01e57a.chunk.css.map",
-    "static/js/2.1b057725.chunk.js.LICENSE.txt": "/time-converter/static/js/2.1b057725.chunk.js.LICENSE.txt",
-    "static/media/clock-icon.9812b43b.svg": "/time-converter/static/media/clock-icon.9812b43b.svg",
-    "static/media/logo.6ce24c58.svg": "/time-converter/static/media/logo.6ce24c58.svg"
+    "main.css": "/Time-Converter/static/css/main.ea01e57a.chunk.css",
+    "main.js": "/Time-Converter/static/js/main.41410378.chunk.js",
+    "main.js.map": "/Time-Converter/static/js/main.41410378.chunk.js.map",
+    "runtime-main.js": "/Time-Converter/static/js/runtime-main.20844df8.js",
+    "runtime-main.js.map": "/Time-Converter/static/js/runtime-main.20844df8.js.map",
+    "static/js/2.312c6f84.chunk.js": "/Time-Converter/static/js/2.312c6f84.chunk.js",
+    "static/js/2.312c6f84.chunk.js.map": "/Time-Converter/static/js/2.312c6f84.chunk.js.map",
+    "static/js/3.3ec79b28.chunk.js": "/Time-Converter/static/js/3.3ec79b28.chunk.js",
+    "static/js/3.3ec79b28.chunk.js.map": "/Time-Converter/static/js/3.3ec79b28.chunk.js.map",
+    "index.html": "/Time-Converter/index.html",
+    "static/css/main.ea01e57a.chunk.css.map": "/Time-Converter/static/css/main.ea01e57a.chunk.css.map",
+    "static/js/2.312c6f84.chunk.js.LICENSE.txt": "/Time-Converter/static/js/2.312c6f84.chunk.js.LICENSE.txt",
+    "static/media/clock-icon.9812b43b.svg": "/Time-Converter/static/media/clock-icon.9812b43b.svg",
+    "static/media/logo.6ce24c58.svg": "/Time-Converter/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8236127d.js",
-    "static/js/2.1b057725.chunk.js",
+    "static/js/runtime-main.20844df8.js",
+    "static/js/2.312c6f84.chunk.js",
     "static/css/main.ea01e57a.chunk.css",
     "static/js/main.41410378.chunk.js"
   ]
